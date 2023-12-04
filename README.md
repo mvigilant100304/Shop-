@@ -1,5 +1,8 @@
 <!DOCTYPE HTML>
 <html>
-<head>
 <meta charset="utf-8">
-<title>Travel Blog:Guide to London:</title>
+  <head>
+    <link rel="stylesheet" type="text/css" href="index.css">
+    <title>The Best Jewerly Shop</title>
+  </head>
+</html>
