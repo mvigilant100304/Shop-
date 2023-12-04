@@ -5,4 +5,33 @@
     <link rel="stylesheet" type="text/css" href="index.css">
     <title>The Best Jewerly Shop</title>
   </head>
+<body>
+      <h1>Michelle's Jewerly Shop</h1>
+      <ul>
+        <li>Necklaces</li>
+        <li>Bracelets</li>
+        <li>Anklets</li>
+        <li>Rings</li>
+      </ul>
+         
+    <table>
+      <tr>
+        <td>
+          <img src="https://eu.danielwellington.com/cdn/shop/products/8e0f26f64d79686b9971f8952bd44508a3077af0.png?v=1679582052" alt="Necklaces" width="250" height="200">
+          <h3>Price: $25.00</h3>
+          <button>Buy Now</button></td>
+        <td>
+          <img src="https://i.ebayimg.com/images/g/8AAAAOSwAjZippxl/s-l1600.jpg" alt="Bracelets" width="250" height="200">
+          <h3>Price: $10.95</h3>
+          <button>Buy Now</button></td>
+        <td>
+          <img src="https://www.babygold.com/cdn/shop/products/A-BD_1080x.png?v=1624385614" alt="Anklets" width="250" height="200">
+          <h3>Price:$12.45</h3>
+          <button>Buy Now</button></td>
+        <td>
+          <img src="https://m.media-amazon.com/images/I/71Pm26p1Y2L._AC_UY580_.jpg" alt="Rings" width="250" height="200">
+          <h3>Price:$15.00</h3>
+          <button>Buy Now</button></td>
+      </tr>
+    </table>
 </html>
