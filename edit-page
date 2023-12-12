@@ -1,37 +1,64 @@
+
 <!DOCTYPE HTML>
 <html>
 <meta charset="utf-8">
   <head>
+<style>
+Body{
+Background-image:url("https://img.freepik.com/free-vector/hand-drawn-floral-wallpaper_52683-67169.jpg?size=626&ext=jpg");
+</style>
     <link rel="stylesheet" type="text/css" href="index.css">
-    <title>The Best Jewerly Shop</title>
+    <title>The Best Jewelry Shop</title>
   </head>
 <body>
-      <h1>Michelle's Jewerly Shop</h1>
-      <ul>
-        <li>Necklaces</li>
-        <li>Bracelets</li>
-        <li>Anklets</li>
-        <li>Rings</li>
-      </ul>
+      <h1 style="border: 6px solid White;"><center>Michelle's Jewelry Shop</center></h1>
+<horizontal>
+<center>
+<h2>
+      
+        Necklaces
+        Bracelets
+        Anklets
+        Rings
+</h2>
+ </center>     
+</horizontal>
+<style>
+h1{
+Fontcolor:rgb(245, 66,138);
+Font-size:100;
+Font-family:Times New Roman;
+</style>
+<center>
          
     <table>
       <tr>
         <td>
           <img src="https://eu.danielwellington.com/cdn/shop/products/8e0f26f64d79686b9971f8952bd44508a3077af0.png?v=1679582052" alt="Necklaces" width="250" height="200">
-          <h3>Price: $25.00</h3>
-          <button>Buy Now</button></td>
+          <h3>Price: $6.00</h3>
+          <button><a target="_blank" href="file:///Users/myavigilant/Desktop/HTML%20Folder/Necklace.html">Buy Now</a></button>
+</td>
         <td>
           <img src="https://i.ebayimg.com/images/g/8AAAAOSwAjZippxl/s-l1600.jpg" alt="Bracelets" width="250" height="200">
-          <h3>Price: $10.95</h3>
-          <button>Buy Now</button></td>
+          <h3>Price: $4.95</h3>
+          
+<button><a target="_blank" href="file:///Users/myavigilant/Desktop/HTML%20Folder/Bracelets.html">Buy Now</a></button>
+
+</td>
         <td>
           <img src="https://www.babygold.com/cdn/shop/products/A-BD_1080x.png?v=1624385614" alt="Anklets" width="250" height="200">
-          <h3>Price:$12.45</h3>
-          <button>Buy Now</button></td>
+          <h3>Price:$5.45</h3>
+     <button><a target="_blank" href="file:///Users/myavigilant/Desktop/HTML%20Folder/Anklet.html ">Buy Now</a></button>
+
+
+</td>
         <td>
           <img src="https://m.media-amazon.com/images/I/71Pm26p1Y2L._AC_UY580_.jpg" alt="Rings" width="250" height="200">
-          <h3>Price:$15.00</h3>
-          <button>Buy Now</button></td>
+          <h3>Price:$3.00</h3>
+        
+<button><a target="_blank" href="file:///Users/myavigilant/Desktop/HTML%20Folder/Rings.html">Buy Now</a></button>
+</td>
       </tr>
     </table>
+</center>
 </html>
